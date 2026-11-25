@@ -20,14 +20,6 @@ The program starts as a live 12-hour clock. Press **S** and it switches to a sto
 - **Fixed window size** (42 x 20) and **automatic redraw** if the console is resized
 - **Drift-free timing** based on the system millisecond timer, including correct handling of midnight
 
-## Screenshots
-
-> Add your screenshots to a `screenshots/` folder and update the file names below.
-
-| Clock mode | Stopwatch running | Laps |
-|---|---|---|
-| ![Clock mode](screenshots/clock.png) | ![Stopwatch](screenshots/running.png) | ![Laps](screenshots/laps.png) |
-
 ## Controls
 
 | Key | Action |
