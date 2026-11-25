@@ -142,10 +142,9 @@ main
 
 ```
 .
-├── Test.asm        Source code (MASM, Irvine32)
-├── README.md       This file
-├── docs/           Project documentation
-└── screenshots/    Program screenshots
+├── stopwatch.asm        Source code (MASM, Irvine32)
+├── README.md       This file          
+└── StopWatch Documentation
 ```
 
 ## Author
